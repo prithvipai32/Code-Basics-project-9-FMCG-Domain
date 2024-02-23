@@ -7,6 +7,8 @@ This is a Resume project challenge given by code basics ( FMCG domain) to analyz
 ## PROBLEM STATEMENT
 
  ![atliq_image](https://github.com/prithvipai32/Code-Basics-project-9-FMCG-Domain/assets/160827333/99eea682-0bf7-4d1e-9297-d38f48285964)
+
+ 
 ![code basics](https://github.com/prithvipai32/Code-Basics-project-9-FMCG-Domain/assets/160827333/75cb54fd-4c5f-4662-985c-3d4a100f773f)
 
 This dashboard is designed to help AtliQ Mart analyze the promotion sales that was held during the festive periods of diwali and sankranthi on their branded products.
