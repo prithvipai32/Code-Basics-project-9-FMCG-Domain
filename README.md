@@ -1,6 +1,6 @@
 # Code-Basics-project-9-FMCG-Domain
 This is a Resume project challenge given by code basics ( FMCG domain) to analyze and provide meaningful insights by addressing the problem statement.
-# Project-9 Analyzing Promotion and festive sales for AtliQ Mart
+# Project-9 Analyzing Promotion and Festive sales for AtliQ Mart
 
 # FMCG domain
 
